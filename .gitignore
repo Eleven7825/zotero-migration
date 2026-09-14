@@ -3,3 +3,4 @@ config.py
 __pycache__/
 *.pyc
 zotero_migration_files/
+fix_attachments.py
